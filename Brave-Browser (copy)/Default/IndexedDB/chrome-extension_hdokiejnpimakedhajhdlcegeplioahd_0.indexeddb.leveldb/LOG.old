@@ -1,2 +1,3 @@
-2025/05/02-22:37:00.478 311d Creating DB /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb since it was missing.
-2025/05/02-22:37:00.485 311d Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/08-05:11:54.478 7434f Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/08-05:11:54.478 7434f Recovering log #3
+2025/05/08-05:11:54.478 7434f Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/000003.log 
